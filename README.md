@@ -50,7 +50,7 @@ Objective: Constructed a robust sales forecasting model for a retail chain to pr
 4. Performance Evaluation Metrics: The models were evaluated using multiple metrics to assess their accuracy and effectiveness. These metrics included Mean Absolute Error(MAE) & Mean Square Error (MSE).
 
 
-Outcome:
+CONCLUSION:
 
 This robust sales forecasting model acts as a cornerstone for the retail chain's success. By accurately predicting future demand and empowering data-driven decision-making, the model optimizes inventory management, refines marketing strategies, and ultimately fuels a significant competitive edge. This comprehensive solution empowers the retail chain to not only survive, but thrive in the ever-evolving market landscape.
 
