@@ -1,7 +1,7 @@
 # SUNIL_PORTFOLIO
 Analytics_Portfolio
 
-PROECT_1 ::  CUSTOMER SEGMENTATION FOR TARGETED MARKETING
+PROECT_1::  CUSTOMER SEGMENTATION FOR TARGETED MARKETING
 
 What is Customer Segmentation?    https://github.com/sunilkumar1762/Customer-Segmentation-for-Targeted-Marketing
 
@@ -35,7 +35,7 @@ Actionable Insights and Recommendations:
 Targeted Marketing Strategies: Tailor marketing campaigns and promotions based on the spending behavior of each segment. For example, offer exclusive deals to High Spenders, loyalty programs for Medium Spenders, and budget-friendly options for Low Spenders. Product Recommendations: Recommend products or services that align with the preferences and purchasing power of each segment to enhance customer engagement.
  
 
-PROJECT_2 ::  SALES FORECASTING FOR RETAIL CHAIN  https://github.com/sunilkumar1762/Sales-Forecasting-for-Retail-Chain
+PROJECT_2::  SALES FORECASTING FOR RETAIL CHAIN  https://github.com/sunilkumar1762/Sales-Forecasting-for-Retail-Chain
 
 Sales forecasting for a retail chain is the process of predicting future sales volume.  By using historical sales data and other relevant factors, retailers can estimate how much they'll sell of a particular product in a given timeframe. This future insight is crucial for making key business decisions.
 
@@ -80,9 +80,9 @@ CONCLUSION::
 
 By integrating this model with the company's maintenance scheduling system, significant improvements can be expected in maintenance operations:
 
-Optimized Scheduling: With accurate downtime predictions, maintenance tasks can be scheduled proactively, preventing unexpected equipment failures and production disruptions. Reduced Downtime: Early identification of potential issues allows for preventive maintenance, minimizing downtime and maximizing equipment uptime.
+1.Optimized Scheduling: With accurate downtime predictions, maintenance tasks can be scheduled proactively, preventing unexpected equipment failures and production disruptions. Reduced Downtime: Early identification of potential issues allows for preventive maintenance, minimizing downtime and maximizing equipment uptime.
 
-Lower Costs: By avoiding unplanned repairs and optimizing resource allocation, the system can lead to significant cost savings.
+2.Lower Costs: By avoiding unplanned repairs and optimizing resource allocation, the system can lead to significant cost savings.
 
 Overall, the implemented predictive maintenance system offers a powerful tool for improving equipment reliability, streamlining maintenance operations, and reducing downtime and associated costs. However, it's important to note that machine learning models can continuously improve with additional data and refinements. Continued monitoring and potential model retraining can further enhance the system's effectiveness over time.
 
