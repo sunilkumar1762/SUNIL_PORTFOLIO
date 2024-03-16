@@ -12,13 +12,13 @@ This project will utilize a dataset containing customer transaction data and dem
 
 This portfolio showcases my in-depth understanding of customer segmentation strategies and techniques. Here's a glimpse of what you'll find:
 
-➢ Data Source : Utilized historical Customers data.
+1. Data Source : Utilized historical Customers data.
 
-➢ Outcome: Developed a detailed customer segmentation model identifying distinct customer groups for targeted marketing strategies.
+2. Outcome: Developed a detailed customer segmentation model identifying distinct customer groups for targeted marketing strategies.
 
-➢ Deliverables: Report outlining key customer groups with actionable insights.
+3. Deliverables: Report outlining key customer groups with actionable insights.
 
-➢ Skills Demonstrated: Data analysis, Machine learning, Business intelligence from complex datasets.
+4. Skills Demonstrated: Data analysis, Machine learning, Business intelligence from complex datasets.
 
 CONCLUSION::: The customer segmentation model using K-Means clustering has successfully identified three distinct customer segments based on their characteristics such as Age, Annual Income, Purchase History, Total Spend, Avg Transaction Value, and Purchase Frequency.
 
@@ -41,13 +41,13 @@ Sales forecasting for a retail chain is the process of predicting future sales v
 
 Objective: Constructed a robust sales forecasting model for a retail chain to predict future sales volumes and improve business decision-making. This project tackles the challenge of sales forecasting for a retail chain. You'll leverage historical sales data to build a predictive model that anticipates future sales trends. 
 
-Data Source: Utilized historical sales data.
+1. Data Source: Utilized historical sales data.
 
-Deliverable: A comprehensive report that details the following:
+2. Deliverable: A comprehensive report that details the following:
 
-Model Selection and Justification: This project compared two popular machine learning algorithms for time series forecasting: Support Vector Machines (SVM) and Random Forests. The selection was based on their ability to handle non-linear relationships and capture complex patterns potentially present in sales data.
+3. Model Selection and Justification: This project compared two popular machine learning algorithms for time series forecasting: Support Vector Machines (SVM) and Random Forests. The selection was based on their ability to handle non-linear relationships and capture complex patterns potentially present in sales data.
 
-Performance Evaluation Metrics: The models were evaluated using multiple metrics to assess their accuracy and effectiveness. These metrics included Mean Absolute Error(MAE) & Mean Square Error (MSE).
+4. Performance Evaluation Metrics: The models were evaluated using multiple metrics to assess their accuracy and effectiveness. These metrics included Mean Absolute Error(MAE) & Mean Square Error (MSE).
 
 
 Outcome:
@@ -56,9 +56,8 @@ This robust sales forecasting model acts as a cornerstone for the retail chain's
 
 Actionable insights for Inventory and Marketing Strategies: Based on the chosen forecasting model's predictions, the report will provide actionable recommendations for:
 
-Inventory Management: Optimizing stock levels to minimize stockouts and overstocking, leading to improved cash flow and reduced storage costs.
-
-Marketing Strategies: Allocating marketing budgets and resources effectively by targeting promotions based on predicted sales trends and customer behavior.
+1.Inventory Management: Optimizing stock levels to minimize stockouts and overstocking, leading to improved cash flow and reduced storage costs.
+2.Marketing Strategies: Allocating marketing budgets and resources effectively by targeting promotions based on predicted sales trends and customer behavior.
 
 PROJECT_3:: PREDICTIVE MAINTENANCE SYSTEM FOR MANUFACTURING EQUIPMENT   https://github.com/sunilkumar1762/-Predictive-Maintenance-System-for-Manufacturing-Equipment
 
@@ -66,12 +65,12 @@ A Predictive Maintenance System (PMS) for manufacturing equipment is a data-driv
 
 Objective: Develop a predictive maintenance system for a manufacturing company that uses machine learning to predict equipment failures before they occur, minimizing downtime and maintenance costs. This project involves analyzing historical sensor data from manufacturing equipment to build a predictive model that can forecast potential equipment failures. By predicting failures before they happen, the company can perform maintenance more efficiently, reduce unplanned downtime, and optimize production schedules.
 
-Data Source:
+1.Data Source:
 
 Sensor data collected from manufacturing equipment, including vibration, temperature, energy consumption, etc.
 Historical maintenance logs.
 
-Report outlining:
+2.Report outlining:
 Implemented machine learning model for predicting equipment failures.
 Evaluation of model performance metrics (e.g., Mean Squared Error, Mean Absolute Error, R-squared).
 Optimized maintenance schedule based on model predictions.
