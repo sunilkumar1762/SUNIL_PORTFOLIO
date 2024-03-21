@@ -17,6 +17,8 @@ Outcome: Identified three distinct customer segments: High Spenders, Medium Spen
 Deliverables: Report outlining key customer groups with actionable insights for targeted marketing campaigns, product recommendations, and promotions.
 
 Skills Demonstrated: Data analysis, machine learning, customer segmentation techniques.
+
+
 ![image](https://github.com/sunilkumar1762/SUNIL_PORTFOLIO/assets/152764886/12e92cff-3f14-4bed-841c-77396ce30716)
 
 
@@ -41,6 +43,10 @@ Marketing Strategies: Allocating marketing budgets and resources based on predic
 
 Skills Demonstrated: Time series forecasting, machine learning model selection and evaluation.
 
+
+![image](https://github.com/sunilkumar1762/SUNIL_PORTFOLIO/assets/152764886/3c5b57ef-8f02-4801-9f0b-2a50c0860eef)
+
+
 Project 3: [Predictive Maintenance System for Manufacturing Equipment](https://github.com/sunilkumar1762/-Predictive-Maintenance-System-for-Manufacturing-Equipment)
 
 In the world of manufacturing, keeping equipment running smoothly is crucial for maintaining production efficiency and avoiding costly downtime. Predictive maintenance systems (PdMs) leverage data and technology to achieve this goal by proactively predicting equipment failures before they occur.
@@ -63,5 +69,10 @@ Reduce downtime and maintenance costs.
 Deliverables: Report outlining the implemented model, performance metrics, optimized maintenance schedule, and cost-benefit analysis.
 
 Skills Demonstrated: Sensor data analysis, machine learning model development and evaluation, cost-benefit analysis.
+
+
+![image](https://github.com/sunilkumar1762/SUNIL_PORTFOLIO/assets/152764886/36236b23-bbc8-4a25-9144-3610b8831a41)
+
+
 
 This portfolio highlights my ability to leverage data analytics and machine learning to solve complex business problems and generate valuable insights. I am confident that my skills and experience can be an asset to any organization seeking to improve its decision-making capabilities.
