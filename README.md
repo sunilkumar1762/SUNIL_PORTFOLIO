@@ -17,6 +17,8 @@ Outcome: Identified three distinct customer segments: High Spenders, Medium Spen
 Deliverables: Report outlining key customer groups with actionable insights for targeted marketing campaigns, product recommendations, and promotions.
 
 Skills Demonstrated: Data analysis, machine learning, customer segmentation techniques.
+![image](https://github.com/sunilkumar1762/SUNIL_PORTFOLIO/assets/152764886/12e92cff-3f14-4bed-841c-77396ce30716)
+
 
 Project 2: [Sales Forecasting for Retail Chain](https://github.com/sunilkumar1762/Sales-Forecasting-for-Retail-Chain)
 
