@@ -2,7 +2,7 @@ Sunil Kumar
 
 This portfolio showcases my expertise in data analysis, machine learning, and business intelligence. Here, I present three projects that demonstrate my ability to solve real-world business problems using data-driven approaches.
 
-Project 1: Customer Segmentation for Targeted Marketing  https://github.com/sunilkumar1762/Customer-Segmentation-for-Targeted-Marketing
+Project 1: [Customer Segmentation for Targeted Marketing](https://github.com/sunilkumar1762/Customer-Segmentation-for-Targeted-Marketing)
 
 Customer segmentation for targeted marketing is a strategy that divides your customer base into distinct groups based on shared characteristics and behaviors.  The goal is to create more focused marketing campaigns that resonate better with each group, ultimately leading to higher engagement and sales.
 
@@ -18,7 +18,7 @@ Deliverables: Report outlining key customer groups with actionable insights for 
 
 Skills Demonstrated: Data analysis, machine learning, customer segmentation techniques.
 
-Project 2: Sales Forecasting for Retail Chain  https://github.com/sunilkumar1762/Sales-Forecasting-for-Retail-Chain
+Project 2: [Sales Forecasting for Retail Chain](https://github.com/sunilkumar1762/Sales-Forecasting-for-Retail-Chain)
 
 Sales forecasting for retail chains is the process of predicting future sales volume. This prediction helps retailers make informed decisions across various aspects of their business. 
 
@@ -39,7 +39,7 @@ Marketing Strategies: Allocating marketing budgets and resources based on predic
 
 Skills Demonstrated: Time series forecasting, machine learning model selection and evaluation.
 
-Project 3: Predictive Maintenance System for Manufacturing Equipment  https://github.com/sunilkumar1762/-Predictive-Maintenance-System-for-Manufacturing-Equipment
+Project 3: [Predictive Maintenance System for Manufacturing Equipment](https://github.com/sunilkumar1762/-Predictive-Maintenance-System-for-Manufacturing-Equipment)
 
 In the world of manufacturing, keeping equipment running smoothly is crucial for maintaining production efficiency and avoiding costly downtime. Predictive maintenance systems (PdMs) leverage data and technology to achieve this goal by proactively predicting equipment failures before they occur.
 
